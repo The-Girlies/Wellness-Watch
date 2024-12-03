@@ -14,13 +14,13 @@ This model utilizes logistic regression classification. However, this model was 
 
 ### Logistic Regression (improved)
 
-An improved model can be found in `amy_logreg_sentiment-analysis-for-mental-health-nlp.ipynb`.
+An improved model can be found in `logistic_regression.ipynb`.
 
 This model improves upon the baseline model by removing data augmentation, changing hyperparameters, stratifying the status in train-test split, and making slight modifications to preprocessing.
 
 ### Random Forest
 
-The model can be found in `rf_sentiment-analysis-for-mental-health-nlp.ipynb`.
+The model can be found in `random_forest.ipynb`.
 
 ### Naive Bayes Classifier
 
