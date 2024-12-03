@@ -21,3 +21,19 @@ This model improves upon the baseline model by removing data augmentation, chang
 ### Random Forest
 
 The model can be found in `rf_sentiment-analysis-for-mental-health-nlp.ipynb`.
+
+### Naive Bayes Classifier
+
+The model can be found in `naive_bayes_classifier.ipynb`.
+
+### Gradient Boosting Machine
+
+The model can be found in `gradient_boosting_machine.ipynb` which runs GridSearchCV to find the best parameters for the model.
+
+The model found in `gradient_boosting_machine_best_params.ipynb` uses the parameters obtained from `gradient_boosting_machine.ipynb` to get the best accuracy for this model.
+
+### Support Vector Machine
+
+The model can be found in `support_vector_machine.ipynb` which runs GridSearchCV to find the best parameters for the model.
+
+The model found in `support_vector_machines_best_params.ipynb` uses the parameters obtained from `support_vector_machine.ipynb` to get the best accuracy for this model.
