@@ -37,3 +37,20 @@ The model found in `gradient_boosting_machine_best_params.ipynb` uses the parame
 The model can be found in `support_vector_machine.ipynb` which runs GridSearchCV to find the best parameters for the model.
 
 The model found in `support_vector_machines_best_params.ipynb` uses the parameters obtained from `support_vector_machine.ipynb` to get the best accuracy for this model.
+
+
+## Member Contributions
+
+Amy:
+Before the midterm report, Amy was responsible for the initial testing of barebones machine learning models, researching Random Forest Classification, and writing the Proposed Extensions section of the paper. After the midterm report, Amy was responsible for implementing and analyzing the data augmentation preprocessing, Logistic Regression, and Random Forest models.
+
+
+Kaylee:
+Before the midterm report, Kaylee was responsible for researching and implementing preprocessing techniques and writing the introduction of the paper and the abstract. After the midterm report, Kaylee was responsible for implementing and analyzing lemmatization and the BERT model. Kaylee was responsible for writing the Abstract, Motivation, and Methodology sections of the poster.
+
+
+Valli:
+Before the midterm report, Valli was responsible for researching Logistic Regression Techniques and for writing the Baseline Solutions section of the paper. After the midterm report, Valli was responsible for implementing and analyzing SVM, Naive Bayes, and Gradient Boosting models. 
+
+
+All members contributed to writing the Results and Analysis/Conclusion sections of the poster. All members contributed to acquiring data for the posters' graphs and Kaylee was responsible for creating them.
